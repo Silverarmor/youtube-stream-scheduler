@@ -1,3 +1,7 @@
+# Credentials
+CLIENT_SECRET.*
+credentials.*
+
 # Python
 __pycache__
 .mypy_cache
